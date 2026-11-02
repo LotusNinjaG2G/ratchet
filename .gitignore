@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+# Ratchet state written by the demo/tests
+*.json.tmp
+ratchet_state.json
+state.json
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
